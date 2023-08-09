@@ -1,6 +1,3 @@
-
-<p><img src="https://track.infyom.com/assets/img/logo-red-black.png"></p>
-
 ## Hospital Management System
 
 ## Installation Step
